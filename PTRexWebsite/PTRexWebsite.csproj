@@ -155,6 +155,17 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Images\00a_slide_intro.jpg" />
+    <Content Include="Images\00b_slide_goals.jpg" />
+    <Content Include="Images\00c_slide_tech_spec.jpg" />
+    <Content Include="Images\0a_Landing.jpg" />
+    <Content Include="Images\0b_Dashboard.jpg" />
+    <Content Include="Images\0c_MyR%28e%29x_Plan.jpg" />
+    <Content Include="Images\0d_Add_Plan_Exercise_1.jpg" />
+    <Content Include="Images\0e_exercise_reference_table.jpg" />
+    <Content Include="Images\0f_MyR%28e%29x_2.jpg" />
+    <Content Include="Images\0g_MyR%28e%29x_workouts.jpg" />
+    <Content Include="Images\0h_About_us.jpg" />
     <Content Include="Images\PTRex logo_graphic &amp; text logo_no tag.png" />
     <Content Include="Images\PTRex logo_graphic only logo.png" />
     <Content Include="Images\PTRex logo_text only logo_no tag.png" />
